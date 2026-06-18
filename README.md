@@ -26,7 +26,10 @@ Key Insights:
 -Monthly sales trends
 
 Files Included:
-Superstore_Sales_Analysis.pbix
+
+-Superstore Dashboard.png
+
+-Superstore_Sales_Analysis.pbix
 
 Author:
 Ariba Siddiqui| Aspiring Business Analyst| Power BI
